@@ -1,6 +1,5 @@
-5
-apple 10
-banana 5
-apple 15
-orange 20
-banana 20
+4
+N 10
+E 5
+S 3
+W 2
